@@ -1,5 +1,5 @@
 # NED (Numeric Entity Doubler)
- An application (and algorithm) that can *encrypt* data via expansion and *decrypt* data via compression. 
+ An application (and algorithm) that can *encrypt* data via expansion and *decrypt* data via compression. Please don't take this seriously as a form of protecting important documents. Just have some fun :D
  
 ## How It Works
 - **Input: Z**
