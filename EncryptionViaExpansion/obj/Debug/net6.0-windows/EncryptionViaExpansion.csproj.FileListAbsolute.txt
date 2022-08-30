@@ -1,0 +1,15 @@
+D:\VS Games\EncryptionViaExpansion\EncryptionViaExpansion\ConsoleApp\Debug\net6.0-windows\NED.exe
+D:\VS Games\EncryptionViaExpansion\EncryptionViaExpansion\ConsoleApp\Debug\net6.0-windows\NED.deps.json
+D:\VS Games\EncryptionViaExpansion\EncryptionViaExpansion\ConsoleApp\Debug\net6.0-windows\NED.runtimeconfig.json
+D:\VS Games\EncryptionViaExpansion\EncryptionViaExpansion\ConsoleApp\Debug\net6.0-windows\NED.dll
+D:\VS Games\EncryptionViaExpansion\EncryptionViaExpansion\ConsoleApp\Debug\net6.0-windows\NED.pdb
+D:\VS Games\EncryptionViaExpansion\EncryptionViaExpansion\obj\Debug\net6.0-windows\EncryptionViaExpansion.csproj.AssemblyReference.cache
+D:\VS Games\EncryptionViaExpansion\EncryptionViaExpansion\obj\Debug\net6.0-windows\EncryptionViaExpansion.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Games\EncryptionViaExpansion\EncryptionViaExpansion\obj\Debug\net6.0-windows\EncryptionViaExpansion.AssemblyInfoInputs.cache
+D:\VS Games\EncryptionViaExpansion\EncryptionViaExpansion\obj\Debug\net6.0-windows\EncryptionViaExpansion.AssemblyInfo.cs
+D:\VS Games\EncryptionViaExpansion\EncryptionViaExpansion\obj\Debug\net6.0-windows\EncryptionViaExpansion.csproj.CoreCompileInputs.cache
+D:\VS Games\EncryptionViaExpansion\EncryptionViaExpansion\obj\Debug\net6.0-windows\NED.dll
+D:\VS Games\EncryptionViaExpansion\EncryptionViaExpansion\obj\Debug\net6.0-windows\refint\NED.dll
+D:\VS Games\EncryptionViaExpansion\EncryptionViaExpansion\obj\Debug\net6.0-windows\NED.pdb
+D:\VS Games\EncryptionViaExpansion\EncryptionViaExpansion\obj\Debug\net6.0-windows\EncryptionViaExpansion.genruntimeconfig.cache
+D:\VS Games\EncryptionViaExpansion\EncryptionViaExpansion\obj\Debug\net6.0-windows\ref\NED.dll
