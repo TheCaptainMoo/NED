@@ -14,6 +14,11 @@ In order for the NED application to operate properly, [.NET Runtime 6.0.8](https
 - Only keys between 10 and 74 can be decrypted **without** error.
 - High recursions are probably not good to use...
 
+### Accessing The Console
+- Locate .\ConsoleApp\Debug\net6.0-windows\NED.exe
+- Open NED.exe
+- Have fun :D
+
 ## Planned Updates
 - Correct decryption of keys below 10
 - Migration to a Desktop Application
