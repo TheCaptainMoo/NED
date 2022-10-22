@@ -1,6 +1,9 @@
 # NED (Numeric Entity Doubler)
  An application (and algorithm) that can *encrypt* data via expansion and *decrypt* data via compression. Please don't take this seriously as a form of protecting important documents. Just have some fun :D
  
+## Desktop Application
+You can find the Desktop Application Version [here](https://github.com/TheCaptainMoo/NED-Desktop).
+ 
 ## How It Works
 - **Input: Z**
 - **Key: 10**
@@ -20,5 +23,4 @@ In order for the NED application to operate properly, [.NET Runtime 6.0.8](https
 - Have fun :D
 
 ## Planned Updates
-- Correct decryption of keys below 10
-- Migration to a Desktop Application
+- Rewrite to be in conjunction with Desktop Application
